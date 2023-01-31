@@ -1,4 +1,3 @@
-import Dashboard from './img/Dashboard.png'
 export const products = [
     {
       id: 1,
