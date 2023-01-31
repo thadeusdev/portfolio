@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/thadeusdev/portfolio/static/css/main.bfbb5b2a.css",
+    "main.js": "/thadeusdev/portfolio/static/js/main.5bb98216.js",
+    "static/media/portfolioImage.png": "/thadeusdev/portfolio/static/media/portfolioImage.8ae7bb87c012a95f80a9.png",
+    "static/media/code.jpg": "/thadeusdev/portfolio/static/media/code.467ac2ac7770ba3137ef.jpg",
+    "static/media/award.png": "/thadeusdev/portfolio/static/media/award.73b454387284b55cc70f.png",
+    "static/media/address.png": "/thadeusdev/portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/thadeusdev/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/thadeusdev/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/thadeusdev/portfolio/index.html",
+    "main.bfbb5b2a.css.map": "/thadeusdev/portfolio/static/css/main.bfbb5b2a.css.map",
+    "main.5bb98216.js.map": "/thadeusdev/portfolio/static/js/main.5bb98216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfbb5b2a.css",
+    "static/js/main.5bb98216.js"
+  ]
+}
