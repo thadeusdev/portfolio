@@ -2,6 +2,7 @@ import React from 'react'
 import './about.css'
 import Code from '../../img/code.jpg'
 import Cert from '../../img/award.png'
+import Sd from '../../img/sd-certificate.png'
 
 const About = () => {
   return (
@@ -36,7 +37,18 @@ const About = () => {
                     Project Management Foundations (2019)
                     </h4>
                     <p className="a-award-desc">
-                    LinkedIn Learning Certificate of Completion.
+                    Certificate of Completion.
+                    </p>
+                </div>
+            </div>
+            <div className="a-award">
+                <img src={Sd} alt="" className="a-award-img" />
+                <div className="a-award-texts">
+                    <h4 className="a-award-title">
+                    Software Engineering
+                    </h4>
+                    <p className="a-award-desc">
+                    Certificate of Completion.
                     </p>
                 </div>
             </div>
