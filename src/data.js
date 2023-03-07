@@ -36,8 +36,8 @@ export const products = [
     },
     {
       id: 8,
-      img: "https://raw.githubusercontent.com/thadeusdev/hospital-management-system/main/client/src/img/data-diagnose.png",
-      link: "https://raw.githubusercontent.com/thadeusdev/hospital-management-system/main/client/src/img/data-diagnose.png",
+      img: "https://raw.githubusercontent.com/thadeusdev/fiverr/main/public/img/fiverr.png",
+      link: "https://fiverr-thadeus.netlify.app/",
     },
   ];
   
