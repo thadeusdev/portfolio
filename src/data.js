@@ -39,5 +39,10 @@ export const products = [
       img: "https://raw.githubusercontent.com/thadeusdev/fiverr/main/public/img/fiverr.png",
       link: "https://fiverr-thadeus.netlify.app/",
     },
+    {
+      id: 9,
+      img: "https://raw.githubusercontent.com/thadeusdev/social-media/main/src/assets/thadisocial.png",
+      link: "https://thadisocial-thadeus.netlify.app/",
+    },
   ];
   
