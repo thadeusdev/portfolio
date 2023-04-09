@@ -2,7 +2,7 @@ export const products = [
     {
       id: 1,
       img: "https://raw.githubusercontent.com/thadeusdev/hospital-management-system/main/client/src/img/Dashboard.png",
-      link: "https://tranquil-falls-82915.herokuapp.com/",
+      link: "https://vast-hamlet-77895.herokuapp.com/",
     },
     {
       id: 2,
